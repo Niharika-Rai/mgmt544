@@ -1,6 +1,6 @@
 ## Healthcare Appointment Scheduling Database
 
-Business Scenario & Problems Solved  
+# Business Scenario & Problems Solved  
 
 The Healthcare Appointment Scheduling Database is designed to streamline how hospitals, clinics, and medical centers manage patient appointments, doctor availability, medical services, and follow-up care. It serves as a centralized system that aligns patient preferences such as preferred dates, times, and treatment types with appropriate and available healthcare providers. The database ensures that both patients and doctors have access to essential information, including contact details, medical service descriptions, and treatment costs, enabling informed decision-making and smoother coordination. By integrating scheduling, communication, and service details into one platform, this system supports efficient healthcare delivery while enhancing patient convenience and overall accessibility.  
 
